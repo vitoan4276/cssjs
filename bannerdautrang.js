@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://goo.gl/cWPJ63' target='_blank'><img src='https://3.bp.blogspot.com/-DAHCiYIxpVg/WbKmlVZNh_I/AAAAAAAABrc/U_P1s8J_ghIchEcI_J-7m89ND3fuf5nhQCLcBGAs/s640/IMG_0342.JPG' width='500px'/><br/>13 Đất Nền Mặt Tiền Trần Đại Nghĩa</a>. Chỉ 1.39 Tỷ Giá Tốt Nhất Khu Vực. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://goo.gl/cWPJ63' target='_blank'><img src='https://3.bp.blogspot.com/-DAHCiYIxpVg/WbKmlVZNh_I/AAAAAAAABrc/U_P1s8J_ghIchEcI_J-7m89ND3fuf5nhQCLcBGAs/s640/IMG_0342.JPG' width='500px'/><br/>Đất Nền Mặt Tiền Trần Đại Nghĩa</a>. Chỉ 1.39 Tỷ Giá Tốt Nhất Khu Vực. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
